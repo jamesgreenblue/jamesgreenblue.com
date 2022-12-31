@@ -1,0 +1,88 @@
+:root {
+    --primary: #575760;
+    --main-width: 650px;
+}
+
+body {
+    font-family: Inter, sans-serif;
+}
+
+p, .post-content ul {
+    font-family: Merriweather, serif;
+    font-size: 0.9em;
+    line-height: 1.9em;
+}
+
+h1 {
+    font-family: Inter, sans-serif;
+    font-weight: bold;
+    font-size: 3em;
+    letter-spacing: -0.04em;
+}
+
+header.entry-header h2 {
+    text-align: center;
+    font-family: Inter, sans-serif;
+    font-weight: bold;
+    font-size: 2.4em;
+    letter-spacing: -0.04em;
+}
+
+.post-content h5 {
+    color: rgb(9, 181, 0);
+    font-size: 0.9em;
+    font-weight: normal;
+    line-height: 1.5em;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #f7f8f9;
+    border-radius: 10px;
+}
+
+nav.nav, .logo {
+    justify-content: center;
+}
+
+div.logo a {
+    background: #0096ff; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #00fa92, #0096ff); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #00fa92, #0096ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    font-family: Inter, sans-serif;
+    font-weight: 700;
+    font-size: 5em;
+    letter-spacing: -0.09em;
+    padding-right: 0.06em;
+    line-height: 1.2em;
+    margin-top: 50px;
+}
+
+@media (max-width:768px) {
+    div.logo a {
+     font-size: 3.5em;
+    }
+
+    header.entry-header h2 {
+        font-size: 2em;
+    }
+}
+
+div.entry-content {
+    font-size: unset;
+}
+
+.post-entry {
+    background: unset;
+    border: none;
+}
+
+.list {
+    background: white;
+}
+
+footer.entry-footer {
+    text-align: center;
+    margin-top: 20px;
+}
