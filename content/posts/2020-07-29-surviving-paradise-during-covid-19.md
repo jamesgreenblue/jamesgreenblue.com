@@ -1,5 +1,6 @@
 ---
 title: Surviving paradise during COVID-19
+slug: surviving-paradise-during-covid-19
 date: 2020-07-29T00:00:00+00:00
 tags: ["adventures"]
 ---

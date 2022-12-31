@@ -1,5 +1,6 @@
 ---
 title: Giving this another go
+slug: hello-world
 date: 2022-12-30T11:27:58+00:00
 tags: ["housekeeping"]
 ---

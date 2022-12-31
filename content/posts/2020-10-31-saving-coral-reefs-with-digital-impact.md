@@ -1,5 +1,6 @@
 ---
 title: Saving coral reefs with digital impact
+slug: saving-coral-reefs-with-digital-impact
 date: 2020-10-31T00:00:00+00:00
 tags: ["digital strategy", "marine conservation"]
 ---
