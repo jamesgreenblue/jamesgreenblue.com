@@ -21,6 +21,10 @@ p, .post-content ul {
     line-height: 1.9em;
 }
 
+.dark p, .dark .post-content ul {
+    color: #fff;
+}
+
 h1 {
     font-family: Inter, sans-serif;
     font-weight: bold;
@@ -34,6 +38,7 @@ header.entry-header h2 {
     font-weight: bold;
     font-size: 2.4em;
     letter-spacing: -0.04em;
+    color: var(--secondary);
 }
 
 .post-content h5 {
@@ -76,7 +81,7 @@ div.logo a {
 
 @media (max-width:768px) {
     div.logo a {
-     font-size: 3.5em;
+     font-size: 12vw;
     }
 
     header.entry-header h2 {
