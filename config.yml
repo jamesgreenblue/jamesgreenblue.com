@@ -1,6 +1,6 @@
 baseURL: https://jamesgreenblue.com/
 languageCode: en-gb
-title: James Greenhalgh on digital strategy, marine conservation, and adventures
+title: James Greenhalgh on digital strategy, marine conservation and adventures
 theme: PaperMod
 paginate: 5
 
@@ -20,7 +20,7 @@ params:
   author: James Greenhalgh
   images: ["img/jgb-banner.png"]
   DateFormat: "2 Jan 2006"
-  defaultTheme: light # dark, light
+  defaultTheme: dark # dark, light
   disableThemeToggle: false
   hideFooter: true
   ShowReadingTime: true
