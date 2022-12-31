@@ -1,5 +1,5 @@
 ---
-title: giving this another go
+title: Giving this another go
 date: 2022-12-30T11:27:58+00:00
 tags: ["housekeeping"]
 ---

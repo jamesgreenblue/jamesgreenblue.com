@@ -1,5 +1,5 @@
 ---
-title: surviving paradise during COVID-19
+title: Surviving paradise during COVID-19
 date: 2020-07-29T00:00:00+00:00
 tags: ["adventures"]
 ---
