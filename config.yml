@@ -4,6 +4,9 @@ title: James Greenhalgh on digital strategy, marine conservation and adventures
 theme: PaperMod
 paginate: 5
 
+permalinks:
+  posts: /blog/:year/:slug/
+
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false

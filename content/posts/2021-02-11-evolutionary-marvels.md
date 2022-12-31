@@ -1,5 +1,6 @@
 ---
 title: '"Evolutionary marvels"'
+slug: evolutionary-marvels
 date: 2021-02-11T00:00:00+00:00
 tags: ["marine conservation", "coral reefs", "freediving"]
 ---
