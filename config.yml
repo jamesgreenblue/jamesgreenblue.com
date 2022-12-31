@@ -1,4 +1,100 @@
 baseURL: https://jamesgreenblue.com/
 languageCode: en-gb
-title: James Greenhalgh
-theme: "PaperMod"
+title: James Greenhalgh on digital strategy, marine conservation, and adventures
+theme: PaperMod
+paginate: 5
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  description: "James works mostly on digital innovation projects intending to bring about meaningful change. Recently his focus has been on marine conservation to help tackle the serious challenges faced by our planet."
+  keywords: [Blog, Portfolio]
+  author: James Greenhalgh
+  images: ["img/jgb-banner.png"]
+  DateFormat: "2 Jan 2006"
+  defaultTheme: light # dark, light
+  disableThemeToggle: false
+  hideFooter: true
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: true
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    # favicon: "<link / abs url>"
+    # favicon16x16: "<link / abs url>"
+    favicon32x32: "img/jgb-logo-32x32.png"
+    apple_touch_icon: "img/jgb-logo-300x300.png"
+    safari_pinned_tab: "img/jgb-logo-300x300.png"
+
+  label:
+    text: "jamesgreenblue"
+    #icon: img/jgb-logo-300x300.png
+    iconHeight: 35
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 20
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 30
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 40
+
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
