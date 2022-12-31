@@ -1,0 +1,15 @@
+{{- /* Footer custom content area start */ -}}
+{{- /*     Insert any custom code web-analytics, resources, etc. here */ -}}
+
+<footer class="footer">
+    {{- if site.Copyright }}
+    <span>{{ site.Copyright | markdownify }}</span>
+    {{- else }}
+    <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">James Greenhalgh</a></span>
+    {{- end }}
+    <span>
+        (this website does not track you)
+    </span>
+</footer>
+
+{{- /* Footer custom content area end */ -}}

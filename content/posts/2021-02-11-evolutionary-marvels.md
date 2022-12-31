@@ -4,7 +4,7 @@ date: 2021-02-11T00:00:00+00:00
 tags: ["marine conservation", "coral reefs", "freediving"]
 ---
 
-The Reef-World team was recently asked to summarise why we care about coral reefs to support [ICRI](https://www.icriforum.org/) ’s recommendation that [coral reefs must be prioritised in the Convention on Biological Diversity’s (CBD) post-2020 Global Biodiversity Framework (GBF)](https://greenfins.net/blog/coral-reef-importance/).
+The Reef-World team was recently asked to summarise why we care about coral reefs to support [ICRI](https://www.icriforum.org/) ’s recommendation that [coral reefs must be prioritised](https://greenfins.net/blog/coral-reef-importance/) in the Convention on Biological Diversity’s (CBD) post-2020 Global Biodiversity Framework (GBF).
 
 Here is my answer:
 

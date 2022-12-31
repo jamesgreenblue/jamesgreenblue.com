@@ -7,6 +7,14 @@ body {
     font-family: Inter, sans-serif;
 }
 
+a {
+    color: #0e11a8
+}
+
+.dark a {
+    color: #00ffbc
+}
+
 p, .post-content ul {
     font-family: Merriweather, serif;
     font-size: 0.9em;
@@ -29,7 +37,6 @@ header.entry-header h2 {
 }
 
 .post-content h5 {
-    color: rgb(9, 181, 0);
     font-size: 0.9em;
     font-weight: normal;
     line-height: 1.5em;
@@ -37,6 +44,14 @@ header.entry-header h2 {
     margin-bottom: 20px;
     background-color: #f7f8f9;
     border-radius: 10px;
+}
+
+.dark .post-content h5 {
+    background: var(--entry);
+}
+
+nav a, .dark nav a {
+    color: unset;
 }
 
 nav.nav, .logo {
