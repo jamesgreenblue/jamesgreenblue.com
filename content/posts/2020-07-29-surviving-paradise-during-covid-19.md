@@ -3,6 +3,7 @@ title: Surviving paradise during COVID-19
 slug: surviving-paradise-during-covid-19
 date: 2020-07-29T00:00:00+00:00
 tags: ["adventures"]
+canonicalURL: https://reef-world.org/blog/surviving-paradise-during-covid-19
 ---
 
 _This post originally appeared on [The Reef-World Foundation](https://reef-world.org/blog/surviving-paradise-during-covid-19) website._
