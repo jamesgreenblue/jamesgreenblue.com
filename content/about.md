@@ -1,11 +1,9 @@
 ---
-title: Digital strategy, marine conservation and adventures
-author: James Greenhalgh
-type: page
-date: 2022-12-30T11:00:00+00:00
+title: James Greenhalgh on digital strategy, marine conservation and adventures
+hidemeta : true
 ---
 
-Hello, I’m **James Greenhalgh**. You can also find me on [Instagram](https://instagram.com/jamesgreenblue), [GitHub](https://github.com/jamesgreenblue), and [LinkedIn](https://www.linkedin.com/in/jamesgreenblue/). 
+Hello, I’m **James** – you can also find me on [Instagram](https://instagram.com/jamesgreenblue), [GitHub](https://github.com/jamesgreenblue), and [LinkedIn](https://www.linkedin.com/in/jamesgreenblue/). 
 
 
 {{< inTextImg url="/media/2023/about-james-diving-in.jpeg" alt="Surfacing from a scuba dive" height="160" >}}
