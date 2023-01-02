@@ -32,6 +32,10 @@ h1 {
     letter-spacing: -0.04em;
 }
 
+h1.post-title {
+    text-align: center;
+}
+
 header.entry-header h2 {
     text-align: center;
     font-family: Inter, sans-serif;
@@ -87,6 +91,11 @@ div.logo a {
     header.entry-header h2 {
         font-size: 2em;
     }
+}
+
+div.post-meta {
+    text-align: center;
+    display: block;
 }
 
 div.entry-content {
