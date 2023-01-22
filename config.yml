@@ -2,7 +2,7 @@ baseURL: https://jamesgreenblue.com/
 languageCode: en-gb
 title: James Greenhalgh on digital strategy, marine conservation and adventures
 theme: PaperMod
-paginate: 5
+paginate: 10
 
 permalinks:
   posts: /blog/:year/:slug/
