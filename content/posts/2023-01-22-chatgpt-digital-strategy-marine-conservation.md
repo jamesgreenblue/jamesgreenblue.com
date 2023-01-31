@@ -5,13 +5,12 @@ date: 2023-01-22
 tags: ["ai", "ChatGPT", "chatbot", "thinking", "misinformation", "language"]
 ---
 
-Jumping on the bandwagon, I asked ChatGPT (Jan 9 Version) to draft a post for this blog and answer a series of follow up questions in the same thread. Here are my thoughts.
+Jumping on the bandwagon, I asked ChatGPT (Jan 9 Version) to draft a post for this blog and answer a series of follow up questions in the same thread. Here are my thoughts:
 
-Training and running a model like ChatGPT requires significant computational resources. As more developers adopt machine learning models like ChatGPT, we should require their [energy consumption and carbon footprint](https://towardsdatascience.com/the-carbon-footprint-of-chatgpt-66932314627d) to be published as a key measure of overall performance. 
 
-It’s not just about the environmental impact - at the risk of stating the obvious, the quality of the language output produced by these models is also closely tied to the training data. And with AI-generated content becoming increasingly prevalent, there’s a risk that we’ll see sterilisation of language and perpetuation of inaccuracies.
+Training and running a model like ChatGPT requires significant computational resources. I would like to see developers publishing precise [energy consumption and carbon footprint](https://towardsdatascience.com/the-carbon-footprint-of-chatgpt-66932314627d) figures and considering environmental impact as a key measure of their machine learning model's performance (alongside accuracy, precision, recall, etc).
 
-Misinformation and polarisation online are already major issues, encouraged by the attention economy underpinning social media and news platforms – it’s likely that AI-generated content will only make things worse. To combat this, we need to develop new business models or networks of trust to authenticate the accuracy of information. Easier said than done!
+It’s not just about the environment - at the risk of stating the obvious, the quality of the language output produced by these models is also closely tied to the training data. And with AI-generated content becoming increasingly prevalent, there’s a risk that we’ll see sterilisation of our languages and inaccuracies perpetuated. Misinformation and polarisation online are already major issues, encouraged by the attention economy underpinning social media and news platforms – it’s likely that AI-generated content will only make things worse. To combat this, we need to develop new business models or networks of trust to authenticate the accuracy of information. Easier said than done!
 
 Another issue to consider is how copyright holders will react to the inclusion of their works in proprietary models. And with AI developers potentially enforcing their own copyrights on the output, it raises questions about the ethics of passing off AI-generated content as original work. I’m trying to keep an open mind but don’t currently buy the argument that you can claim credit for a work simply by crafting the prompt.
 
