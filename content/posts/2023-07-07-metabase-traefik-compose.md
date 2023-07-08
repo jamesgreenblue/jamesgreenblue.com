@@ -1,8 +1,8 @@
 ---
-title: Self-hosting Metabase with BigQuery for fun and (non-)profit
-slug: metabase-traefik-prod-docker-compose
+title: Self-hosting Metabase for fun and (non-)profit
+slug: metabase-traefik-compose
 date: 2023-07-07
-tags: ["metabase", "docker", "production", "code snippet", "tutorial"]
+tags: ["metabase", "traefik", "docker", "self-hosting", "template", "tutorial"]
 ---
 
 [Reef-World](https://reef-world.org) holds 14+ years of environmental impact data collected from Green Fins assessments. This data was trapped in silos and needed human effort to manually export and transform CSV files into something meaningful.
