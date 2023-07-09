@@ -1,5 +1,5 @@
 ---
-title: Self-hosting Metabase for fun and (non-)profit
+title: Self-hosting Metabase for fun and non-profit
 slug: metabase-traefik-compose
 date: 2023-07-07
 tags: ["metabase", "traefik", "docker", "self-hosting", "template", "tutorial"]
