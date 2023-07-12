@@ -24,9 +24,11 @@ If you are keen to know more, have a look at:
 * [Meet James](https://reef-world.org/blog/meet-james)
 * [Reef-World staff page](https://reef-world.org/staff)
 
-Couple of things worth noting:
+Few things worth noting:
 
+* AI content policy: The posts here are 'hand' written by me – authentic, organic, and free range. Any AI generated content will be clearly labeled.
 * I work full time for [The Reef-World Foundation](https://reef-world.org/staff) – the opinions expressed here do not necessarily reflect Reef-World's.
-* This site may link to other websites, but I am not responsible for their content and does not constitute an endorsement.
+* Links to other websites does not constitute an endorsement and I'm not responsible for third party content.
+* The site content is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
 
 {{< carbon >}}
