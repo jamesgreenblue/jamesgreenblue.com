@@ -1,34 +1,43 @@
 :root {
     --primary: #575760;
     --main-width: 650px;
+    --jgb-dark: #00ffbc;
+    --jgb-light: #0e11a8;
 }
 
 body {
     font-family: Inter, sans-serif;
+    font-size: unset;
 }
 
 a {
-    color: #0e11a8
+    color: var(--jgb-light);
 }
 
 .dark a {
-    color: #00ffbc
+    color: var(--jgb-dark);
 }
 
 p {
     font-family: Merriweather, serif;
-    font-size: 0.9em;
     line-height: 2em;
 }
 
 .post-content ul {
     font-family: Merriweather, serif;
-    font-size: 1em;
     margin-left: 1em;
 }
 
 .post-content li {
     margin-bottom: 1em;
+}
+
+.post-content li::marker {
+    color: var(--jgb-light);
+}
+
+.dark .post-content li::marker {
+    color: var(--jgb-dark);
 }
 
 .dark p, .dark .post-content ul {
@@ -56,7 +65,7 @@ header.entry-header h2 {
 }
 
 .post-content h5 {
-    font-size: 0.9em;
+    font-size: 1.07em;
     font-weight: normal;
     line-height: 1.5em;
     padding: 20px;
@@ -67,6 +76,10 @@ header.entry-header h2 {
 
 .dark .post-content h5 {
     background: var(--entry);
+}
+
+.post-content h3 {
+    font-weight: normal;
 }
 
 nav a, .dark nav a {
