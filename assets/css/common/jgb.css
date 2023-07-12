@@ -15,10 +15,20 @@ a {
     color: #00ffbc
 }
 
-p, .post-content ul {
+p {
     font-family: Merriweather, serif;
     font-size: 0.9em;
     line-height: 2em;
+}
+
+.post-content ul {
+    font-family: Merriweather, serif;
+    font-size: 1em;
+    margin-left: 1em;
+}
+
+.post-content li {
+    margin-bottom: 1em;
 }
 
 .dark p, .dark .post-content ul {
@@ -80,7 +90,6 @@ div.logo a {
     letter-spacing: -0.09em;
     padding-right: 0.06em;
     line-height: 1.2em;
-    margin-top: 50px;
 }
 
 @media (max-width:768px) {

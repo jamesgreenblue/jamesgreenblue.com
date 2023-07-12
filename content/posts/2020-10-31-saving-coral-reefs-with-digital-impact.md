@@ -2,7 +2,7 @@
 title: Saving coral reefs with digital impact
 slug: saving-coral-reefs-with-digital-impact
 date: 2020-10-31
-tags: ["digital strategy", "marine conservation"]
+tags: ["digital strategy", "marine conservation", "Reef-World"]
 canonicalURL: https://reef-world.org/blog/digital-impact
 ---
 
