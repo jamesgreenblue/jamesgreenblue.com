@@ -2,7 +2,7 @@
 title: Self-hosting Metabase for fun and non-profit
 slug: metabase-traefik-compose
 date: 2023-07-07
-tags: ["metabase", "traefik", "docker", "self-hosting", "template", "tutorial"]
+tags: ["metabase", "traefik", "docker", "self-hosting", "template", "tutorial", "Reef-World", "Green Fins"]
 ---
 
 [Reef-World](https://reef-world.org) holds 14+ years of environmental impact data collected from Green Fins assessments. This data was trapped in silos and needed human effort to manually export and transform CSV files into something meaningful.
