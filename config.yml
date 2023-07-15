@@ -1,8 +1,9 @@
 baseURL: https://jamesgreenblue.com/
-languageCode: en-gb
 title: James Greenhalgh on digital strategy, marine conservation and adventures
 theme: PaperMod
 paginate: 10
+copyright: This work is licensed under a Creative Commons Attribution 4.0 International License.
+languageCode: en-gb
 
 permalinks:
   posts: /blog/:year/:slug/
@@ -32,6 +33,7 @@ params:
   ShowBreadCrumbs: false
   ShowCodeCopyButtons: false
   ShowWordCount: true
+  ShowFullTextinRSS: true
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
   disableSpecial1stPost: true
