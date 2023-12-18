@@ -22,6 +22,7 @@ If you are keen to know more, have a look at:
 
 * [Wiseoceans interview](https://www.wiseoceans.com/an-interview-with-wiseoceans-james-greenhalgh)
 * [Meet James](https://reef-world.org/blog/meet-james)
+* [Register of Chartered IT Professionals](https://www.bcs.org/membership-and-registrations/get-registered/chartered-it-professional/register-of-chartered-it-professionals/)
 
 Few things worth noting:
 
