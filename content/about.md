@@ -27,7 +27,7 @@ If you are keen to know more, have a look at:
 Few things worth noting:
 
 * **AI content policy:** The site content is handwritten by me – authentic, organic, and free range. Any AI generated content from projects or experiments will be clearly labeled.
-* I am a [Trustee](https://reef-world.org/trustees) at [The Reef-World Foundation](https://reef-world.org) – the opinions expressed here do not necessarily reflect Reef-World's.
+* I'm a [Trustee](https://reef-world.org/trustees) at [The Reef-World Foundation](https://reef-world.org) – the opinions expressed here do not necessarily reflect Reef-World's.
 * Links to other websites do not constitute an endorsement and I'm not responsible for third-party content.
 * The site content is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
 
