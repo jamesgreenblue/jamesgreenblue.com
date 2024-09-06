@@ -14,7 +14,7 @@ This personal blog captures what I’m interested in or working on in the moment
 
 Away from the keyboard I’m a huge fan of micro adventures, getting out into the wild to re-calibrate and reflect on what matters. I’ve been fortunate to hike, scuba dive, and freedive all around the world and love macro life ( [nudis](https://www.youtube.com/watch?v=F7V8DRfZBQI)!), British wrecks, and underwater cleanups. 
 
-I work mostly on [digital](https://www.unep.org/news-and-stories/story/digital-hub-designed-protect-coral-reefs-shortlisted-global-award) [innovation](https://greenfins.net/) [projects](https://oceansfestuk.com/) intending to bring about meaningful change. Recently my focus has been on marine conservation to help tackle the serious challenges faced by our planet: no green without blue.
+I [work](https://inplanet.earth/about/#team) mostly on [digital](https://www.unep.org/news-and-stories/story/digital-hub-designed-protect-coral-reefs-shortlisted-global-award) [innovation](https://greenfins.net/) [projects](https://oceansfestuk.com/) intending to bring about meaningful change. Recently my focus has been on carbon dioxide removal (CDR) and marine conservation to help tackle the serious challenges faced by our planet: no green without blue.
 
 ##### If you are a non-profit or startup working on climate change or blue carbon projects that would benefit from digital consultancy please [contact me](/contact).
 
