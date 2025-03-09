@@ -1,5 +1,5 @@
 ---
-title: James Greenhalgh on digital strategy, marine conservation and adventures
+title: Digital strategy, marine conservation, and adventures
 hidemeta : true
 ---
 
