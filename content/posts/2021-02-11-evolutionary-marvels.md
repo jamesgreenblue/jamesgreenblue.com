@@ -9,5 +9,6 @@ The Reef-World team was recently asked to summarise why we care about coral reef
 
 Here is my answer:
 
-> _“Visiting coral reefs is to visit life: to see the building blocks of the ocean. As a freediver, I love the diversity of colours and structures of coral reefs – a sanctuary for abundant and unique marine life – but also because corals exist in a place free from distractions that we can only visit fleetingly and in the moment. I love the simplicity of taking a single breath and spending a few minutes in a world that is so different and yet so intrinsically linked to our own.”_
-> `James Greenhalgh`
+{{< quote source="James Greenhalgh" url="https://jamesgreenblue.com/" >}}
+Visiting coral reefs is to visit life: to see the building blocks of the ocean. As a freediver, I love the diversity of colours and structures of coral reefs – a sanctuary for abundant and unique marine life – but also because corals exist in a place free from distractions that we can only visit fleetingly and in the moment. I love the simplicity of taking a single breath and spending a few minutes in a world that is so different and yet so intrinsically linked to our own.
+{{< /quote >}}

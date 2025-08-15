@@ -1,0 +1,18 @@
+
+{{- $source := .Get "source" -}}
+<figure class="quote">
+  <blockquote>
+	  {{.Inner | transform.Markdownify}}
+  </blockquote>
+  <figcaption>
+		<cite title="{{- $source -}}">
+      &mdash;
+      {{ if .Get "url" }}
+        {{- $url := .Get "url" -}}
+        <a href="{{- $url -}}" target="_blank" rel="noopener noreferrer">{{- $source -}}</a>
+      {{ else }}
+        {{- $source -}}
+      {{ end }}
+		</cite>
+  </figcaption>
+</figure>

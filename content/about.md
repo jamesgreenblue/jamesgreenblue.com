@@ -1,6 +1,7 @@
 ---
 title: Digital strategy, marine conservation, and adventures
-hidemeta : true
+hidemeta: true
+hidetitle: true
 ---
 
 Hello, I’m **James** – you can also find me on [GitHub](https://github.com/jamesgreenblue), [LinkedIn](https://www.linkedin.com/in/jamesgreenblue/), and [Instagram](https://instagram.com/jamesgreenblue).
@@ -19,7 +20,6 @@ Away from the keyboard I love micro adventures and am happiest out freediving, h
 
 If you are keen to know more, have a look at:
 
-* InPlanet [staff bio](https://inplanet.earth/about/#team)
 * [Wiseoceans interview](https://www.wiseoceans.com/an-interview-with-wiseoceans-james-greenhalgh)
 * Reef-World [Trustee bio](https://reef-world.org/trustees)
 * [Register of Chartered IT Professionals](https://www.bcs.org/membership-and-registrations/get-registered/chartered-it-professional/register-of-chartered-it-professionals/)

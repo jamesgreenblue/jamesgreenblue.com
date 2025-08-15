@@ -1,8 +1,13 @@
 :root {
     --primary: #575760;
     --main-width: 650px;
-    --jgb-dark: #00ffbc;
-    --jgb-light: #0e11a8;
+    --jgb-0: #0e11a8;
+    --jgb-1: #00ffbc;
+    --jgb-2: #00dac0;
+    --jgb-3: #00b4b8;
+    --jgb-4: #008ea2;
+    --jgb-5: #1c6a80;
+    --jgb-6: #2f4858;
 }
 
 body {
@@ -11,11 +16,11 @@ body {
 }
 
 a {
-    color: var(--jgb-light);
+    color: var(--jgb-0);
 }
 
 .dark a {
-    color: var(--jgb-dark);
+    color: var(--jgb-1);
 }
 
 p {
@@ -23,8 +28,37 @@ p {
     line-height: 2em;
 }
 
-.post-content ul {
-    font-family: Merriweather, serif;
+.post-content code {
+    font-size: 1em !important;
+}
+
+.post-content figure.quote {
+    border-inline-start: 3px solid var(--jgb-0) !important;
+    margin: 0 20px !important;
+    padding: 0 0 0 20px !important;
+    font-family: Merriweather, serif !important;
+    font-size: 0.9em;
+    font-style: italic;
+    text-align: justify;
+}
+
+.dark .post-content figure.quote {
+    border-inline-start: 3px solid var(--jgb-1) !important;
+}
+
+.post-content figure.quote cite {
+    font-style: normal;
+    font-size: 0.9em;
+}
+
+.post-content blockquote, .dark .post-content blockquote {
+    border-inline-start: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.post-content ul, .post-content ol {
+    font-family: Merriweather, serif !important;
     margin-left: 1em;
 }
 
@@ -33,35 +67,37 @@ p {
 }
 
 .post-content li::marker {
-    color: var(--jgb-light);
+    color: var(--jgb-0);
 }
 
 .dark .post-content li::marker {
-    color: var(--jgb-dark);
+    color: var(--jgb-1);
 }
 
 .dark p, .dark .post-content ul {
     color: #fff;
 }
 
+.entry-hint-parent { /* flex was causing short titles not be centred */
+    display: inherit !important;
+}
+
 h1 {
     font-family: Inter, sans-serif;
     font-weight: bold;
-    font-size: 3em;
+    font-size: 40px;
     letter-spacing: -0.04em;
-}
-
-h1.post-title {
     text-align: center;
+    color: var(--jgb-6);
 }
 
 header.entry-header h2 {
     text-align: center;
     font-family: Inter, sans-serif;
     font-weight: bold;
-    font-size: 2.4em;
+    font-size: 40px;
     letter-spacing: -0.04em;
-    color: var(--secondary);
+    color: var(--jgb-6);
 }
 
 .post-content h5 {
@@ -125,8 +161,9 @@ div.entry-content {
 }
 
 .post-entry {
-    background: unset;
-    border: none;
+    background: unset !important;
+    border: unset !important;
+
 }
 
 .list {

@@ -2,9 +2,10 @@
 {{- /*     Insert any custom code (web-analytics, resources, etc.) - it will appear in the <head></head> section of every page. */ -}}
 
 <link rel="me" href="https://mastodon.social/@jamesgreenblue">
+{{- if hugo.IsProduction }}
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Merriweather:ital,wght@0,300;1,300&display=swap" rel="stylesheet"> 
 <style> @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Merriweather:ital,wght@0,300;1,300&display=swap'); </style>
-
+{{- end }}
 {{- /* Head custom content area end */ -}}
