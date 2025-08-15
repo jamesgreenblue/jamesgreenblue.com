@@ -1,7 +1,7 @@
 baseURL: https://jamesgreenblue.com/
-title: James Greenhalgh on digital strategy, marine conservation and adventures
+title: James Greenhalgh on digital strategy, marine conservation and adventures.
 theme: PaperMod
-paginate: 10
+pagination.pagerSize: 10
 copyright: This work is licensed under a Creative Commons Attribution 4.0 International License.
 languageCode: en-gb
 
@@ -19,19 +19,19 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "James works mostly on digital innovation projects intending to bring about meaningful change. Recently his focus has been on marine conservation to help tackle the serious challenges faced by our planet."
+  description: "Roughly 0-2 times per year James writes about what he interested in or working on in the moment."
   keywords: [James Greenhalgh, blog, digital, strategy, projects, adventures, climate change, marine conservation]
   author: James Greenhalgh
   images: ["img/jgb-banner.png"]
   DateFormat: "2 Jan 2006"
-  defaultTheme: dark # dark, light
+  defaultTheme: auto # dark, light
   disableThemeToggle: false
   hideFooter: true
   ShowReadingTime: true
   ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: false
-  ShowCodeCopyButtons: false
+  ShowCodeCopyButtons: true
   ShowWordCount: true
   ShowFullTextinRSS: true
   ShowRssButtonInSectionTermList: true
@@ -84,14 +84,10 @@ menu:
       name: About
       url: /about/
       weight: 20
-    - identifier: contact
-      name: Contact
-      url: /contact/
-      weight: 30
     - identifier: archives
       name: Archives
       url: /archives/
-      weight: 40
+      weight: 30
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
