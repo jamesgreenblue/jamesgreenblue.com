@@ -1,6 +1,6 @@
 # jamesgreenblue.com
 
-The source code for: [James Greenhalgh on digital strategy, marine conservation and adventures](https://jamesgreenblue.com/) 
+The source code for: [James Greenhalgh on digital strategy, marine conservation, and adventures](https://jamesgreenblue.com/) 
 
 Powered by [Hugo](https://gohugo.io/) & a modded copy of [PaperMod](https://github.com/adityatelange/hugo-PaperMod/) 🙏
 
@@ -12,3 +12,22 @@ The intellectual works in `/content` are licensed under a
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+
+## Get started
+Update PaperMod base theme:
+
+```bash
+git submodule update --remote --merge
+```
+
+Start Hugo server:
+
+```bash
+hugo server --environment production
+```
+
+If working offline, use dev flag to disable Google Fonts:
+
+```bash
+hugo server --environment development
+```
