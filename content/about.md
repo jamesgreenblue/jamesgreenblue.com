@@ -12,16 +12,16 @@ Hello, I’m **James** – you can also find me on [GitHub](https://github.com/j
 
 Roughly 0-2 times per year I write here about what I’m interested in or working on in the moment, partly for my own reference but also to be helpful to others trying to do the same thing.
 
-I work mostly on [digital](https://www.unep.org/news-and-stories/story/digital-hub-designed-protect-coral-reefs-shortlisted-global-award) [innovation](https://greenfins.net/) [projects](https://inplanet.earth/) with a climate or marine conservation focus: no green without blue.
+I work mostly on [digital](https://www.unep.org/news-and-stories/story/digital-hub-designed-protect-coral-reefs-shortlisted-global-award) [innovation](https://greenfins.net/) [projects](https://cdr30.org/) with a climate or marine conservation focus: no green without blue.
 
 Away from the keyboard I love micro adventures and am happiest out freediving, hiking, bivvying, scuba diving, skiing, or combinations of these activities ... especially if there are [nudis](https://www.youtube.com/watch?v=F7V8DRfZBQI)!
 
-##### If you are a climate focussed startup or non-profit needing digital transformation, product management, commercial strategy, or negotiation support please [contact me](/contact).
+##### If you are a climate focussed startup or non-profit needing digital transformation, product management, commercial strategy, or negotiation support please contact me via LinkedIn.
 
 If you are keen to know more, have a look at:
 
 * [Wiseoceans interview](https://www.wiseoceans.com/an-interview-with-wiseoceans-james-greenhalgh)
-* Reef-World [Trustee bio](https://reef-world.org/trustees)
+* Reef-World [Trustee bio](https://reef-world.org/our-people) & [old staff bio](https://reef-world.org/blog/meet-james)
 * [Register of Chartered IT Professionals](https://www.bcs.org/membership-and-registrations/get-registered/chartered-it-professional/register-of-chartered-it-professionals/)
 
 Also worth noting:
