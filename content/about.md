@@ -6,9 +6,9 @@ hidetitle: true
 
 Hello, I’m **James** – you can also find me on [GitHub](https://github.com/jamesgreenblue), [LinkedIn](https://www.linkedin.com/in/jamesgreenblue/), and [Instagram](https://instagram.com/jamesgreenblue).
 
-{{< inTextImg url="/media/2023/about-james-diving-in.jpeg" alt="Surfacing from a scuba dive" height="160" >}}
-{{< inTextImg url="/media/2023/about-james-diving-up.jpeg" alt="Pretending to drive a dive boat" height="160" >}}
+{{< inTextImg url="/media/2023/about-james-diving-up.jpeg" alt="Emerging from a dive bell" height="160" >}}
 {{< inTextImg url="/media/2023/about-james-work-headshot.jpeg" alt="Work profile photo" height="160" >}}
+{{< inTextImg url="/media/2023/about-james-diving-in.jpeg" alt="Freediving through tubes" height="160" >}}
 
 Roughly 0-2 times per year I write here about what I’m interested in or working on in the moment, partly for my own reference but also to be helpful to others trying to do the same thing.
 
